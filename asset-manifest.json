@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contextapiclassbase/static/css/main.b5b29386.chunk.css",
+    "main.js": "/contextapiclassbase/static/js/main.36f68cc6.chunk.js",
+    "main.js.map": "/contextapiclassbase/static/js/main.36f68cc6.chunk.js.map",
+    "runtime-main.js": "/contextapiclassbase/static/js/runtime-main.14783bf4.js",
+    "runtime-main.js.map": "/contextapiclassbase/static/js/runtime-main.14783bf4.js.map",
+    "static/js/2.d701aa1c.chunk.js": "/contextapiclassbase/static/js/2.d701aa1c.chunk.js",
+    "static/js/2.d701aa1c.chunk.js.map": "/contextapiclassbase/static/js/2.d701aa1c.chunk.js.map",
+    "index.html": "/contextapiclassbase/index.html",
+    "precache-manifest.e1cec221e2397f724536040d34570061.js": "/contextapiclassbase/precache-manifest.e1cec221e2397f724536040d34570061.js",
+    "service-worker.js": "/contextapiclassbase/service-worker.js",
+    "static/css/main.b5b29386.chunk.css.map": "/contextapiclassbase/static/css/main.b5b29386.chunk.css.map",
+    "static/js/2.d701aa1c.chunk.js.LICENSE.txt": "/contextapiclassbase/static/js/2.d701aa1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14783bf4.js",
+    "static/js/2.d701aa1c.chunk.js",
+    "static/css/main.b5b29386.chunk.css",
+    "static/js/main.36f68cc6.chunk.js"
+  ]
+}
